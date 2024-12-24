@@ -97,10 +97,7 @@ This project demonstrates the comparative performance of several deep learning m
 
 By employing state-of-the-art neural architectures, we are able to significantly improve the quality of colorized images compared to traditional methods.
 
----
-
-For further details and implementation, check out the provided code and scripts in this repository.
-
 ## Authors:
 -Bazzan Sofia
+
 -Pasin Diletta
