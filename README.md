@@ -19,7 +19,9 @@ This project evaluates the effectiveness of different neural network architectur
 
 ### Dataset
 
-We use a comprehensive dataset of over 8000 images of flowers from 102 different species. These images are grayscale and have been used to train and test the various models described above.
+We use the **102 Category Flower Dataset** [16], a collection developed by Maria-Elena Nilsback and Andrew Zisserman. This dataset contains over 8000 images of flowers from 102 different species. It is publicly available and can be accessed at the following link: 
+
+[102 Category Flower Dataset](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/)
 
 ## Key Contributions
 
